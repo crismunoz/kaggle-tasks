@@ -22,9 +22,9 @@ Kaggle: https://www.kaggle.com/c/titanic
 
 ## Source:
 
-[titanic-machine-learning-from-disaster-training.pyinb](titanic-machine-learning-from-disaster-training.pyinb)
+[titanic-machine-learning-from-disaster-training.pyinb](https://github.com/crismunoz/kaggle-tasks/blob/main/titanic-machine-learning-from-disaster-training/titanic-machine-learning-from-disaster-training.ipynb)
 
 
 ## Results:
 
-![image-20210416112824563](C:\Users\cristian.munoz\AppData\Roaming\Typora\typora-user-images\image-20210416112824563.png)
+![image-20210416112824563](score.png)
