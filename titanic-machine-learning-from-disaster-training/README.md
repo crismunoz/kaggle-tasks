@@ -28,3 +28,5 @@ Kaggle: https://www.kaggle.com/c/titanic
 ## Results:
 
 ![image-20210416112824563](score.png)
+
+![image-20210416112824563](position.png)
